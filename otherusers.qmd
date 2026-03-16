@@ -11,7 +11,7 @@ format: html
 
 -   Video link: https://x.com/paulctan/status/2032942478894985277
 
--    Contributor: Paul C Tan.
+-   Contributor: Paul C Tan.
 
 **Disclaimer** All events, media, and related materials on this platform are either voluntarily contributed by users or collected from publicly available online sources for archival and informational purposes only. Copyright and all other rights remain with the original creators or respective rights holders.
 

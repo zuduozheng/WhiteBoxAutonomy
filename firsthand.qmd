@@ -3,40 +3,25 @@ title: "First-hand Reports"
 format: html
 ---
 
-#### Event 1
+### Event 1
 
-**System**: Tesla Model Y FSD 2026
-
-**Context**: Highway
-
-**Country**: Australia
-
-**Date**: 14 March 2026
-
-**Type**: Speed limit confusion
-
-**Event**: During a trip to North Lakes Costco, while travelling on the Bruce Highway near IKEA in a posted 80 km/h zone, FSD appeared limited to about 60 km/h, despite the vehicle display showing an 80 km/h speed limit. Manual acceleration was possible, but once pedal input was released, the vehicle decelerated back to below 60 km/h.
-
-**Outcome**: Safe. Following vehicles became impatient and overtook. FSD returned to normal behaviour once the speed limit increased to 100 km/h.
-
-**Source**: Own experience
-
+**System**: Tesla Model Y FSD 2026\
+**Context**: Highway\
+**Country**: Australia\
+**Date**: 14 March 2026\
+**Type**: Speed limit confusion\
+**Event**: During a trip to North Lakes Costco, while travelling on the Bruce Highway near IKEA in a posted 80 km/h zone, FSD appeared limited to about 60 km/h, despite the vehicle display showing an 80 km/h speed limit. Manual acceleration was possible, but once pedal input was released, the vehicle decelerated back to below 60 km/h.\
+**Outcome**: Safe. Following vehicles became impatient and overtook. FSD returned to normal behaviour once the speed limit increased to 100 km/h.\
+**Source**: Own experience\
 **Video link**: NA.
 
-#### Event 2
+### Event 2
 
-**System**: Tesla Model Y FSD 2026
-
-**Context**: Suburb
-
-**Country**: Australia
-
-**Date**: 15 March 2026
-
-**Type**: Potentially dangerous right turn
-
-**Event**: Tesla FSD making a right turn a bit too soon. Although it's safe, for a brief moment I was thinking it's about to hit the car. Outcome: Safe.
-
-**Source**: Own experience
-
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: 15 March 2026\
+**Type**: Potentially dangerous right turn\
+**Event**: Tesla FSD making a right turn a bit too soon. Although it's safe, for a brief moment I was thinking it's about to hit the car. Outcome: Safe.\
+**Source**: Own experience\
 **Video link**: [Youtube video](https://www.youtube.com/watch?v=86hAfbAgojQ)

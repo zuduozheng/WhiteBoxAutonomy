@@ -1,1 +1,9 @@
 /* css styles */
+figure {
+  text-align: center;
+}
+
+figure figcaption {
+  text-align: center;
+  font-size: 0.9em;
+}

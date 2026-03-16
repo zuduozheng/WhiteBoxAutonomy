@@ -10,4 +10,4 @@ The **White Box Autonomy** aims to document what happens on the road in a factua
 
 Contributions are welcome from anyone who would like to share autonomous driving-related events with the community. Please send your material to this email address (zuduo dot zheng at uq dot edu dot au) with the subject line “White Box Autonomy Contribution.” If your material is published, it will be properly credited.
 
-![credit: this image was generated with AI assistance.](images/logo.png){width="397"}
+![Credit: this image was generated with AI assistance.](images/logo.png){width="397"}
