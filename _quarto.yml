@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "White Box Autonomy"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "About"
+        href: about.qmd
+      - text: "First-hand Reports"
+        href: firsthand.qmd
+      - text: "Community Reports"
+        href: otherusers.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

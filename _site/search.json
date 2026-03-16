@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Reproducibility in Transportation Research: A Hands-on Tutorial 2.0 – Reproducible Manuscripts",
+    "section": "",
+    "text": "Welcome\nWelcome to the official site of the Reproducibility in Transportation Research Tutorial 2.0 at ITSC 2025. This half-day tutorial will provide participants with hands-on training on how to make their research reproducible using modern tools and practices."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This tutorial builds on the success of the 2024 edition to focus on making reproducible manuscripts. Participants will learn:\n\nFundamental concepts of Reproducible Research (RR)\nTools and software to facilitate reproducibility\nSteps to make manuscripts fully reproducible\nHow to foster a community around RR in ITS"
+  },
+  {
+    "objectID": "about.html#motivation-and-objectives",
+    "href": "about.html#motivation-and-objectives",
+    "title": "About",
+    "section": "",
+    "text": "This tutorial builds on the success of the 2024 edition to focus on making reproducible manuscripts. Participants will learn:\n\nFundamental concepts of Reproducible Research (RR)\nTools and software to facilitate reproducibility\nSteps to make manuscripts fully reproducible\nHow to foster a community around RR in ITS"
+  },
+  {
+    "objectID": "about.html#relevance",
+    "href": "about.html#relevance",
+    "title": "About",
+    "section": "Relevance",
+    "text": "Relevance\nGiven the interdisciplinary and data-driven nature of Intelligent Transportation Systems (ITS), reproducibility ensures scientific credibility and real-world impact."
+  },
+  {
+    "objectID": "organisers.html",
+    "href": "organisers.html",
+    "title": "Organizers",
+    "section": "",
+    "text": "Zuduo Zheng\nProfessor & Deputy TMR TAP Chair, University of Queensland\nProfile:contentReferenceoaicite:10\n\n\n\nDavid Levinson\nProfessor of Transport, University of Sydney\nProfile:contentReferenceoaicite:13\n\n\n\nXuesong Zhou\nProfessor, Arizona State University\nProfile:contentReferenceoaicite:16\n\n\n\nSaeed Mohammadian\nPostdoctoral Research Fellow, University of Queensland\nProfile:contentReferenceoaicite:19\n\n\n\nCathy Wu\nAssociate Professor, MIT\nProfile:contentReferenceoaicite:22\n\n\n\nBidisha Ghosh\nAssociate Professor, Trinity College Dublin\nProfile:contentReferenceoaicite:25\n\n\n\nIrene Martínez\nAssistant Professor, TU Delft\nProfile:contentReferenceoaicite:28"
+  },
+  {
+    "objectID": "organisers.html#tutorial-team",
+    "href": "organisers.html#tutorial-team",
+    "title": "Organizers",
+    "section": "",
+    "text": "Zuduo Zheng\nProfessor & Deputy TMR TAP Chair, University of Queensland\nProfile:contentReferenceoaicite:10\n\n\n\nDavid Levinson\nProfessor of Transport, University of Sydney\nProfile:contentReferenceoaicite:13\n\n\n\nXuesong Zhou\nProfessor, Arizona State University\nProfile:contentReferenceoaicite:16\n\n\n\nSaeed Mohammadian\nPostdoctoral Research Fellow, University of Queensland\nProfile:contentReferenceoaicite:19\n\n\n\nCathy Wu\nAssociate Professor, MIT\nProfile:contentReferenceoaicite:22\n\n\n\nBidisha Ghosh\nAssociate Professor, Trinity College Dublin\nProfile:contentReferenceoaicite:25\n\n\n\nIrene Martínez\nAssistant Professor, TU Delft\nProfile:contentReferenceoaicite:28"
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Session 1 (9:00am - 10:00am): Introduction to Reproducible Research\n- Lecture and activity\nBreak (10:00am - 10:15am)\nSession 2 (10:15am - 11:15am): Tools for collaboration\n- Lecture and computer exercise\nBreak (11:15am - 11:30am)\nSession 3 (11:30am - 12:45pm): Making manuscripts reproducible\n- Lecture, exercise, and Q&A\nLunch (Optional, 12:45pm - 1:30pm)"
+  },
+  {
+    "objectID": "schedule.html#tutorial-session-plan",
+    "href": "schedule.html#tutorial-session-plan",
+    "title": "Schedule",
+    "section": "",
+    "text": "Session 1 (9:00am - 10:00am): Introduction to Reproducible Research\n- Lecture and activity\nBreak (10:00am - 10:15am)\nSession 2 (10:15am - 11:15am): Tools for collaboration\n- Lecture and computer exercise\nBreak (11:15am - 11:30am)\nSession 3 (11:30am - 12:45pm): Making manuscripts reproducible\n- Lecture, exercise, and Q&A\nLunch (Optional, 12:45pm - 1:30pm)"
+  }
+]

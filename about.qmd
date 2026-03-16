@@ -1,0 +1,14 @@
+---
+title: "About"
+format: html
+---
+
+Autonomous vehicles are often presented as the future of road transport, with the promise of reducing crashes, easing congestion, and lowering emissions. Around the world, governments, manufacturers, and technology companies are investing heavily in this vision, and real-world deployment is already under way through robotaxis, supervised automated driving systems, and limited driverless operations. Yet behind the optimism and media attention lies a more complicated reality: autonomous driving is still not fully autonomous, and it is not yet consistently safer than a skilled human driver.
+
+In practice, many so-called driverless systems still depend on human oversight, whether through safety drivers in the vehicle, remote supervisors, or users who must remain ready to intervene. At the same time, real-world incidents continue to reveal gaps between technical promise and on-road performance. These gaps are not always visible in marketing claims, headlines, or isolated demonstrations. What is often missing is a clear, factual, and publicly accessible record of what autonomous systems actually do in everyday conditions.
+
+The White Box Autonomy was created in response to that gap. Its purpose is to document real-world autonomous driving events through firsthand experience and attributed user reports, creating an open archive of both smooth performance and noteworthy issues. The name reflects two ideas. First, autonomous vehicles need something like the aviation black box: a way to preserve events so they can be examined rather than forgotten. Second, these records should not remain opaque or mysterious. They should be transparent, open, and accessible. That is the meaning of the “white box”: not secrecy, but visibility. Not speculation, but facts.
+
+The ultimate goal of the White Box Autonomy is to reveal and document safety-critical events, especially so-called long-tail events. These are events that are difficult to anticipate through what-if exercises and rare enough that they may not appear often in testing, yet they can have catastrophic consequences when they do occur, particularly if users place blind trust in autonomy. By documenting such events, the White Box Autonomy aims to create a valuable resource for researchers and AV companies, helping them train and improve autonomous driving systems to better handle corner cases, edge cases, and other scenarios that may be missing from existing training data. It can also support policymakers and the public in forming evidence-based expectations about autonomous vehicles.
+
+**In evidence, not hype, we trust.**
