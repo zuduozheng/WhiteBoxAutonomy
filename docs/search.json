@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Autonomous vehicles are often presented as the future of road transport, with the promise of reducing crashes, easing congestion, and lowering emissions. Around the world, governments, manufacturers, and technology companies are investing heavily in this vision, and real-world deployment is already under way through robotaxis, supervised automated driving systems, and limited driverless operations. Yet behind the optimism and media attention lies a more complicated reality: autonomous driving is still not fully autonomous, and it is not yet consistently safer than a skilled human driver.\nIn practice, many so-called driverless systems still depend on human oversight, whether through safety drivers in the vehicle, remote supervisors, or users who must remain ready to intervene. At the same time, real-world incidents continue to reveal gaps between technical promise and on-road performance. These gaps are not always visible in marketing claims, headlines, or isolated demonstrations. What is often missing is a clear, factual, and publicly accessible record of what autonomous systems actually do in everyday conditions.\nThe White Box Autonomy was created in response to that gap. Its purpose is to document real-world autonomous driving events through firsthand experience and attributed user reports, creating an open archive of both smooth performance and noteworthy issues. The name reflects two ideas. First, autonomous vehicles need something like the aviation black box: a way to preserve events so they can be examined rather than forgotten. Second, these records should not remain opaque or mysterious. They should be transparent, open, and accessible. That is the meaning of the “white box”: not secrecy, but visibility. Not speculation, but facts.\nThe ultimate goal of the White Box Autonomy is to reveal and document safety-critical events, especially so-called long-tail events. These are events that are difficult to anticipate through what-if exercises and rare enough that they may not appear often in testing, yet they can have catastrophic consequences when they do occur, particularly if users place blind trust in autonomy. By documenting such events, the White Box Autonomy aims to create a valuable resource for researchers and AV companies, helping them train and improve autonomous driving systems to better handle corner cases, edge cases, and other scenarios that may be missing from existing training data. It can also support policymakers and the public in forming evidence-based expectations about autonomous vehicles.\nIn evidence, not hype, we trust."
+  },
+  {
+    "objectID": "about.html#motivation-and-objectives",
+    "href": "about.html#motivation-and-objectives",
+    "title": "About",
+    "section": "",
+    "text": "This tutorial aims to build on the success of the first tutorial on reproducibility in transportation research (https://rrintransportation.github.io/itsc24-rr-tutorial/) we organised at ITSC 2024 in Canada, with a focus on making reproducible manuscripts.\nReproducibility refers to the conception that scientific results can be reliably regenerated through repeated application of the same data, methods, and analysis pipeline by independent researchers. Reproducibility is a cornerstone of scientific research, providing the foundation for validating results and advancing knowledge. In research fields where computation-based scientific publication is pervasive, a credibility crisis has been warned]. Reproducible Research (RR) is gaining extensive attention in various fields, such as remote sensing, medicine, and data science, to ensure the validity and reliability of scientific findings.\nIn the field of traffic and transportation, Intelligent Transportation Systems (ITS) represent the most computationally intensive, fast-growing area of research with significant implications of outcomes for the general population. In ITS, the rapid evolution of technologies and methodologies emphasized the need for reproducible research practices. Reproducibility can refer to computational reproducibility, ensuring that the same data and analysis steps produce consistent results. However, when it is infeasible to replicate an entire scientific study, achieving reproducibility sets a minimum standard of scientific rigor by allowing others to validate and build upon the findings. With ITS being inherently interdisciplinary and data-driven, reproducibility forms the backbone for credible, reliable research outputs.\nGive the growing importance of these issues, this tutorial revolves around reproducibility, with the objectives of:\n●      An introduction to the fundamental concepts and importance of RR to the domain of ITS\n●      Provide hands-on training in the use of tools and software that facilitate reproducibility\n●      Guide researchers on how to make their next manuscript 100% reproducible\n●      Encourage collaboration among tutorial participants and the broader ITS community to foster a community that values and practices reproducible research"
+  },
+  {
+    "objectID": "about.html#relevance",
+    "href": "about.html#relevance",
+    "title": "About",
+    "section": "Relevance",
+    "text": "Relevance\nGiven the interdisciplinary and data-driven nature of Intelligent Transportation Systems (ITS), reproducibility ensures scientific credibility and real-world impact."
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "When: 8:30-12:30 (Brisbane local time) | Tuesday, November 18, 2024 (https://ieee-itsc.org/2025/program/workshops-and-tutorials/)\nWhere: Room Gold Coast | the Star Grand | Broadbeach | Gold Coast.\n👉 Participants should bring laptops to participate in hands-on sessions with installed required software, including\n\nRStudio (by default, Quarto will be automatically installed when you install the latest version of RStudio)\nA Github account (see tutorial)\nAnaconda Python and Jupyter\nOverleaf\n\n\nPlease note: A little bit of coding experience with RStudio or Python will be more than enough for this tutorial. Even if you’ve never written a line of code in your life, don’t stress — you’ll still be able to follow along with most of the activities. This tutorial is about making your manuscript reproducible, not about showing off your coding superpowers (though hey, you might unlock a few along the way!).\nOpening remarks (Professor Cathy Wu, MIT) & Pre-tutorial survey (8:30am - 8:40am)\nSession 1: Introduction to Reproducible Research (8:40am-9:40am)\nPresentation 1: Making your manuscript reproducible: an Editor’s perspective by Professor David Levinson (USYD)\nPresentation 2: Introduction to reproducible research and reproducible manuscript by Professor Zuduo Zheng (UQ)\nActivity 1: Is your most recent manuscript reproducible?\n\nCOFFEE BREAK (9:40am-10:00am)\nSession 2: Reproducibility for research collaboration (10:00am-11:00am)\nPresentation 3: Tools for practicing reproducible research collaboration by Professor Zuduo Zheng & Dr Saeed Mohammadian (UQ)\nActivity 2: Computer exercise\nCOFFEE BREAK (11:00 am-11:30am)\nSession 3: Reproducibility for publication: How to make your next manuscript reproducible? (11:30am-12:30 pm)\nDemonstration 1: Making reproducible manuscripts using RStudio and Quarto By Mr Hongbo Zhao (UQ)\nDemonstration 2: Making reproducible manuscripts using Python, Overleaf and Code Ocean by Dr Saeed Mohammadian (UQ)\nActivity 3: Make your most recent manuscript reproducible\nQ&A and & Post-tutorial survey\nOPTIONAL LUNCH (12:30 pm-1:30pm): Join us for a collaborative working lunch to build and strengthen the community dedicated to Reproducible Research in Transportation.\nContact person: Zuduo Zheng (zuduo.zheng@uq.edu.edu)"
+  },
+  {
+    "objectID": "schedule.html#tutorial-session-plan",
+    "href": "schedule.html#tutorial-session-plan",
+    "title": "Schedule",
+    "section": "",
+    "text": "When: 8:30-12:30 (Brisbane local time) | Tuesday, November 18, 2024 (https://ieee-itsc.org/2025/program/workshops-and-tutorials/)\nWhere: Room Gold Coast | the Star Grand | Broadbeach | Gold Coast.\n👉 Participants should bring laptops to participate in hands-on sessions with installed required software, including\n\nRStudio (by default, Quarto will be automatically installed when you install the latest version of RStudio)\nA Github account (see tutorial)\nAnaconda Python and Jupyter\nOverleaf\n\n\nPlease note: A little bit of coding experience with RStudio or Python will be more than enough for this tutorial. Even if you’ve never written a line of code in your life, don’t stress — you’ll still be able to follow along with most of the activities. This tutorial is about making your manuscript reproducible, not about showing off your coding superpowers (though hey, you might unlock a few along the way!).\nOpening remarks (Professor Cathy Wu, MIT) & Pre-tutorial survey (8:30am - 8:40am)\nSession 1: Introduction to Reproducible Research (8:40am-9:40am)\nPresentation 1: Making your manuscript reproducible: an Editor’s perspective by Professor David Levinson (USYD)\nPresentation 2: Introduction to reproducible research and reproducible manuscript by Professor Zuduo Zheng (UQ)\nActivity 1: Is your most recent manuscript reproducible?\n\nCOFFEE BREAK (9:40am-10:00am)\nSession 2: Reproducibility for research collaboration (10:00am-11:00am)\nPresentation 3: Tools for practicing reproducible research collaboration by Professor Zuduo Zheng & Dr Saeed Mohammadian (UQ)\nActivity 2: Computer exercise\nCOFFEE BREAK (11:00 am-11:30am)\nSession 3: Reproducibility for publication: How to make your next manuscript reproducible? (11:30am-12:30 pm)\nDemonstration 1: Making reproducible manuscripts using RStudio and Quarto By Mr Hongbo Zhao (UQ)\nDemonstration 2: Making reproducible manuscripts using Python, Overleaf and Code Ocean by Dr Saeed Mohammadian (UQ)\nActivity 3: Make your most recent manuscript reproducible\nQ&A and & Post-tutorial survey\nOPTIONAL LUNCH (12:30 pm-1:30pm): Join us for a collaborative working lunch to build and strengthen the community dedicated to Reproducible Research in Transportation.\nContact person: Zuduo Zheng (zuduo.zheng@uq.edu.edu)"
+  },
+  {
+    "objectID": "organisers.html",
+    "href": "organisers.html",
+    "title": "Organizers",
+    "section": "",
+    "text": "Zuduo Zheng\nProfessor, University of Queensland"
+  },
+  {
+    "objectID": "organisers.html#tutorial-team",
+    "href": "organisers.html#tutorial-team",
+    "title": "Organizers",
+    "section": "",
+    "text": "Zuduo Zheng\nProfessor & Deputy TMR TAP Chair, University of Queensland\nProfile\n\n\n\nDavid Levinson\nProfessor of Transport, University of Sydney\nProfile\n\n\n\nXuesong Zhou\nProfessor, Arizona State University\nProfile\n\n\n\nSaeed Mohammadian\nPostdoctoral Research Fellow, University of Queensland\nProfile\n\n\n\nCathy Wu\nAssociate Professor, MIT\nProfile\n\n\n\nBidisha Ghosh\nAssociate Professor, Trinity College Dublin\nProfile\n\n\n\nIrene Martínez\nAssistant Professor, TU Delft\nProfile"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "White Box Autonomy",
+    "section": "",
+    "text": "Welcome\nWelcome to the official site of the White Box Autonomy. A neutral archive of real-world autonomous driving events from actual users. Facts only. Run by an autonomous driving researcher with 10+ years of experience.\nThe White Box Autonomy aims to document what happens on the road in a factual and accessible way. The name reflects two ideas: the need for a “black box” equivalent for autonomous vehicles to preserve important events, and the belief that these events should not remain opaque or mysterious. Instead, they should be open, transparent, and visible — a white box, not a black one.\nContributions are welcome from anyone who would like to share autonomous driving-related events with the community. Please send your material to this email address (zuduo dot zheng at uq dot edu dot au) with the subject line “White Box Autonomy Contribution.” If your material is published, it will be properly credited.\n\n\n\ncredit: this image was generated with AI assistance."
+  },
+  {
+    "objectID": "organisers.html#organizers",
+    "href": "organisers.html#organizers",
+    "title": "Organizers",
+    "section": "",
+    "text": "Zuduo Zheng\nProfessor, University of Queensland\n\n\n\n\nDavid Levinson\nProfessor, University of Sydney\n\n\n\n\nXuesong Zhou\nProfessor, Arizona State University\n\n\n\n\nSaeed Mohammadian\nPostdoctoral Research Fellow, University of Queensland\n\n\n\n\nCathy Wu\nAssociate Professor, MIT\n\n\n\n\nBidisha Ghosh\nAssociate Professor, Trinity College Dublin\n\n\n\n\nIrene Martínez\nAssistant Professor, TU Delft"
+  },
+  {
+    "objectID": "organisers.html#teaching-assistants",
+    "href": "organisers.html#teaching-assistants",
+    "title": "Organizers",
+    "section": "Teaching Assistants",
+    "text": "Teaching Assistants\n\n\nMr Hongbo Zhao, University of Queensland;\n\n\n\nMr Junyi Ji, Vanderbilt University."
+  },
+  {
+    "objectID": "about.html#relevance-to-the-its-community-ieee-itsc2025",
+    "href": "about.html#relevance-to-the-its-community-ieee-itsc2025",
+    "title": "About",
+    "section": "Relevance to the ITS community & IEEE-ITSC2025:",
+    "text": "Relevance to the ITS community & IEEE-ITSC2025:\nAs indicated in the preceding section, repeatability, replicability, and reproducibility are considered the gold standards in scientific research. In the wake of the reproducibility crisis, several disciplines of scientific research have energetically embraced the challenge by increasing awareness, adopting detailed protocols and training in rigor and reproducibility. Now is an exciting and pivotal time for the ITSC community to actively engage with and champion RR in ITS research. This tutorial provides practical tools and best practices to make reproducibility a standard in ITS research, helping to increase its credibility and real-world impact."
+  },
+  {
+    "objectID": "about.html#intended-audience",
+    "href": "about.html#intended-audience",
+    "title": "About",
+    "section": "Intended Audience:",
+    "text": "Intended Audience:\nThis tutorial is primarily designed for transportation researchers, practitioners, and students who seek to deepen their understanding and application of reproducibility in their work. As ITS is inherently interdisciplinary and reliant on robust data analysis, ensuring reproducibility is crucial for generating trustworthy and effective research outcomes.\nThe intended audience includes a wide range of participants actively involved in carrying out or managing ITS research. We aim to introduce the fundamentals and importance of Reproducibility and Replicability to newcomers, while also enhancing the competencies of those familiar with these concepts. Whether you are a beginner eager to learn and implement basic reproducibility workflows or an experienced researcher looking to refine your skills with advanced techniques and tools, this tutorial is structured to meet your needs."
+  },
+  {
+    "objectID": "about.html#benefits-to-participants",
+    "href": "about.html#benefits-to-participants",
+    "title": "About",
+    "section": "Benefits to Participants:",
+    "text": "Benefits to Participants:\nBy attending this tutorial, participants will:\n●      Gain a deeper understanding of reproducibility concepts and challenges in transportation research.\n●      Learn practical strategies and best practices for improving reproducibility in their own research projects.\n●      Acquire hands-on experience with tools and techniques for making their next manuscript reproducible.\n●      Connect with peers and experts in the field to exchange ideas and experiences related to reproducible research."
+  },
+  {
+    "objectID": "otherusers.html",
+    "href": "otherusers.html",
+    "title": "Community Reports",
+    "section": "",
+    "text": "Tesla FSD crash in snowy conditions.\nEvent: a Tesla on Full Self-Driving (FSD) colliding with a sliding pickup truck on a snowy highway. FSD attempted to slow and evade but ultimately braced for impact. Country: Canada. Date: unknown, but the video clip was posted on March 14, 2026. Video link: https://x.com/paulctan/status/2032942478894985277 Contributor: Paul C Tan.\nDisclaimer All events, media, and related materials on this platform are either voluntarily contributed by users or collected from publicly available online sources for archival and informational purposes only. Copyright and all other rights remain with the original creators or respective rights holders.\nIf you are the owner of any material featured on this platform and do not wish it to be included, please contact me by email and it will be removed promptly."
+  },
+  {
+    "objectID": "otherusers.html#teaching-assistants",
+    "href": "otherusers.html#teaching-assistants",
+    "title": "Events reported by other users",
+    "section": "Teaching Assistants",
+    "text": "Teaching Assistants\n\n\nMr Hongbo Zhao, University of Queensland;\n\n\n\nMr Junyi Ji, Vanderbilt University."
+  },
+  {
+    "objectID": "firsthand.html",
+    "href": "firsthand.html",
+    "title": "First-hand Reports",
+    "section": "",
+    "text": "Event 1\nSystem: Tesla Model Y FSD 2026\nContext: Highway\nCountry: Australia\nDate: 14 March 2026\nType: Speed limit confusion\nEvent: During a trip to North Lakes Costco, while travelling on the Bruce Highway near IKEA in a posted 80 km/h zone, FSD appeared limited to about 60 km/h, despite the vehicle display showing an 80 km/h speed limit. Manual acceleration was possible, but once pedal input was released, the vehicle decelerated back to below 60 km/h.\nOutcome: Safe. Following vehicles became impatient and overtook. FSD returned to normal behaviour once the speed limit increased to 100 km/h.\nSource: Own experience\nVideo link: NA.\n\n\nEvent 2\nSystem: Tesla Model Y FSD 2026\nContext: Suburb\nCountry: Australia\nDate: 15 March 2026\nType: Potentially dangerous right turn\nEvent: Tesla FSD making a right turn a bit too soon. Although it’s safe, for a brief moment I was thinking it’s about to hit the car. Outcome: Safe.\nSource: Own experience\nVideo link: [Youtube video] (https://www.youtube.com/watch?v=86hAfbAgojQ)."
+  },
+  {
+    "objectID": "firsthand.html#tutorial-session-plan",
+    "href": "firsthand.html#tutorial-session-plan",
+    "title": "Firsthand events",
+    "section": "",
+    "text": "When: 8:30-12:30 (Brisbane local time) | Tuesday, November 18, 2024 (https://ieee-itsc.org/2025/program/workshops-and-tutorials/)\nWhere: Room Gold Coast | the Star Grand | Broadbeach | Gold Coast.\n👉 Participants should bring laptops to participate in hands-on sessions with installed required software, including\n\nRStudio (by default, Quarto will be automatically installed when you install the latest version of RStudio)\nA Github account (see tutorial)\nAnaconda Python and Jupyter\nOverleaf\n\n\nPlease note: A little bit of coding experience with RStudio or Python will be more than enough for this tutorial. Even if you’ve never written a line of code in your life, don’t stress — you’ll still be able to follow along with most of the activities. This tutorial is about making your manuscript reproducible, not about showing off your coding superpowers (though hey, you might unlock a few along the way!).\nOpening remarks (Professor Cathy Wu, MIT) & Pre-tutorial survey (8:30am - 8:40am)\nSession 1: Introduction to Reproducible Research (8:40am-9:40am)\nPresentation 1: Making your manuscript reproducible: an Editor’s perspective by Professor David Levinson (USYD)\nPresentation 2: Introduction to reproducible research and reproducible manuscript by Professor Zuduo Zheng (UQ)\nActivity 1: Is your most recent manuscript reproducible?\n\nCOFFEE BREAK (9:40am-10:00am)\nSession 2: Reproducibility for research collaboration (10:00am-11:00am)\nPresentation 3: Tools for practicing reproducible research collaboration by Professor Zuduo Zheng & Dr Saeed Mohammadian (UQ)\nActivity 2: Computer exercise\nCOFFEE BREAK (11:00 am-11:30am)\nSession 3: Reproducibility for publication: How to make your next manuscript reproducible? (11:30am-12:30 pm)\nDemonstration 1: Making reproducible manuscripts using RStudio and Quarto By Mr Hongbo Zhao (UQ)\nDemonstration 2: Making reproducible manuscripts using Python, Overleaf and Code Ocean by Dr Saeed Mohammadian (UQ)\nActivity 3: Make your most recent manuscript reproducible\nQ&A and & Post-tutorial survey\nOPTIONAL LUNCH (12:30 pm-1:30pm): Join us for a collaborative working lunch to build and strengthen the community dedicated to Reproducible Research in Transportation.\nContact person: Zuduo Zheng (zuduo.zheng@uq.edu.edu)"
+  }
+]
