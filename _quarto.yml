@@ -5,6 +5,8 @@ project:
 website:
   title: "White Box Autonomy"
   navbar:
+    collapse: true
+    collapse-below: xl
     left:
       - href: index.qmd
         text: Home
