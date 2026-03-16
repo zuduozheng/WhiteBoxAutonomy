@@ -39,4 +39,4 @@ format: html
 
 **Source**: Own experience
 
-**Video link**: [Youtube video] (https://www.youtube.com/watch?v=86hAfbAgojQ).
+**Video link**: [Youtube video](https://www.youtube.com/watch?v=86hAfbAgojQ)
