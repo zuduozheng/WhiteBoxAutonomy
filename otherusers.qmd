@@ -6,9 +6,10 @@ format: html
 ### Tesla FSD crash in snowy conditions.
 
 **Event**: a Tesla on Full Self-Driving (FSD) colliding with a sliding pickup truck on a snowy highway. FSD attempted to slow and evade but ultimately braced for impact.\
-**Country**: Canada.   
+**Country**: Canada.\   
 **Date**: unknown, but the video clip was posted on March 14, 2026.\
-[**Video link: X post**](https://x.com/paulctan/status/2032942478894985277)  
+**Outcome**: Collision.\
+[**Video link: X post**](https://x.com/paulctan/status/2032942478894985277)  \
 **Contributor**: Paul C Tan.
 
 **Disclaimer** All events, media, and related materials on this platform are either voluntarily contributed by users or collected from publicly available online sources for archival and informational purposes only. Copyright and all other rights remain with the original creators or respective rights holders.

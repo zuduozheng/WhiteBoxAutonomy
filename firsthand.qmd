@@ -22,6 +22,7 @@ format: html
 **Country**: Australia\
 **Date**: 15 March 2026\
 **Type**: Potentially dangerous right turn\
-**Event**: Tesla FSD making a right turn a bit too soon. Although it's safe, for a brief moment I was thinking it's about to hit the car. Outcome: Safe.\
+**Event**: Tesla FSD making a right turn a bit too soon. Although it's safe, for a brief moment I was thinking it's about to hit the car. \
+**Outcome**: Safe.\
 **Source**: Own experience\
 **Video link**: [Youtube video](https://www.youtube.com/watch?v=86hAfbAgojQ)
