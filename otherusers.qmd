@@ -7,10 +7,42 @@ format: html
 
 **Event**: a Tesla on Full Self-Driving (FSD) colliding with a sliding pickup truck on a snowy highway. FSD attempted to slow and evade but ultimately braced for impact.\
 **Country**: Canada.\   
-**Date**: unknown, but the video clip was posted on March 14, 2026.\
+**Date**: Unknown, but the video clip was posted on March 14, 2026.\
 **Outcome**: Collision.\
 [**Video link: X post**](https://x.com/paulctan/status/2032942478894985277)  \
 **Contributor**: Paul C Tan.
+
+### Tesla FSD in heavy fog.
+
+**Event**: In heavy fog and wet conditions, Tesla FSD does not adjust its driving behavior (e.g., slowing down) to account for reduced visibility and traction. While it may still operate safely, it shows no clear awareness of the risk, making it feel unreliable and difficult to trust in these conditions.\
+**Country**: Unknown.\   
+**Date**: Unknown, but the video clip was posted on March 17, 2026.\
+**Outcome**: safe.\
+[**Video link: X post**](https://x.com/mikepat711/status/2033552410308690410)  \
+**Contributor**: Mike P.
+
+### Tesla FSD seriously speeding.
+
+**Event**: Tesla FSD was set to Chill mode but was driving at 44% above the posted speed limit.\
+**Country**: Unknown.\   
+**Date**: Unknown, but the video clip was posted on March 16, 2026.\
+**Outcome**: Safe.\
+[**Video link: X post**](https://x.com/AIDRIVR/status/2033353203518169463)  \
+**Contributor**: ΛI DRIVR.
+
+### Tesla FSD Navigates Wrecked Bus Off-Road
+
+**Event**: a Tesla on Full Self-Driving (FSD) navigates around a massive wrecked tour bus, handling the situation impressively by going fully off-road across rough, bumpy grass.\
+**Country**: Probably Thailand.\   
+**Date**: Unknown, but the video clip was posted on March 15, 2026.\
+**Outcome**: Safe.\
+[**Video link: X post**](https://x.com/drewinnovations/status/2033056567247921461)  \
+**Contributor**: drewinnovations.
+
+
+
+
+
 
 **Disclaimer** All events, media, and related materials on this platform are either voluntarily contributed by users or collected from publicly available online sources for archival and informational purposes only. Copyright and all other rights remain with the original creators or respective rights holders.
 

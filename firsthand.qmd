@@ -21,8 +21,45 @@ format: html
 **Context**: Suburb\
 **Country**: Australia\
 **Date**: 15 March 2026\
-**Type**: Potentially dangerous right turn\
-**Event**: Tesla FSD making a right turn a bit too soon. Although it's safe, for a brief moment I was thinking it's about to hit the car. \
+**Type**: Potentially risky right turn\
+**Event**: Tesla FSD initiated a right turn slightly early—ultimately safe, but briefly appeared to come close to a vehicle traveling straight in the opposite direction.\
 **Outcome**: Safe.\
 **Source**: Own experience\
-**Video link**: [Youtube video](https://www.youtube.com/watch?v=86hAfbAgojQ)
+**Video link**: [Youtube](https://www.youtube.com/watch?v=86hAfbAgojQ)
+
+### Event 3
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: 8 March 2026\
+**Type**: Excessive speed for conditions\
+**Event**: Tesla FSD was driving along Robinson Road in Aspley at the 50 km/h speed limit. While not exceeding the limit, the rough, bumpy surface near the curb caused significant shaking, making the ride feel unsafe. My daughter became frightened, so I quickly disengaged FSD.\
+**Outcome**: Safe.\
+**Source**: Own experience\
+**Video link**: No video. The road surface image is below:
+
+![](images/Bumpy%20Robinson%20Road.png)
+
+### Event 4
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: 17 March 2026\
+**Type**: Narrow and crowded local road **Event**: Tesla FSD navigates a busy local street smoothly, like an experienced driver.\
+**Outcome**: impressive.\
+**Source**: Own experience\
+**Video link**: [Youtube](https://youtu.be/A25X8p71jko)
+
+### Event 5
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: 18 March 2026\
+**Type**: Seemingly confused \
+**Event**: Tesla FSD hesitated in traffic and began moving in behind a parked roadside car; I quickly intervened to correct it, prompting another driver to honk—the first time I’ve experienced this with FSD.\
+**Outcome**: frustrating.\
+**Source**: Own experience\
+**Video link**: [Youtube](https://www.youtube.com/watch?v=brQ_h95wU5E)
