@@ -3,6 +3,24 @@ title: "Community Reports"
 format: html
 ---
 
+### Waymo freezes on Active Train Tracks.
+
+**Event**: A driverless Waymo Jaguar I-Pace in Austin stopped between active train tracks and a lowered crossing gate, narrowly avoiding collision with a passing CapMetro train, as captured in a 25-second video showing the white vehicle inches from the rails. \
+**Country**: USA.\   
+**Date**: 09 March, 2026.\
+**Outcome**: near miss.\
+[**Video link: X post**](https://x.com/ABC/status/2031558071630123088)\
+**Contributor**: ABC News.
+
+### Waymo Blocks Ambulance.
+
+**Event**: A Waymo autonomous vehicle obstructs an ambulance and police cars en route to a March 1, 2026, mass shooting at Buford's Backyard Beer Garden in Austin, Texas, where 3 people were killed and 14 injured by a gunman suspected in a terrorism probe. \
+**Country**: USA.\   
+**Date**: 02 March, 2026.\
+**Outcome**: Safe.\
+[**Video link: X post**](https://x.com/Breaking911/status/2028160742755537397)\
+**Contributor**: Breaking911.
+
 ### Tesla FSD crash in snowy conditions.
 
 **Event**: a Tesla on Full Self-Driving (FSD) colliding with a sliding pickup truck on a snowy highway. FSD attempted to slow and evade but ultimately braced for impact.\
@@ -39,7 +57,32 @@ format: html
 [**Video link: X post**](https://x.com/drewinnovations/status/2033056567247921461)  \
 **Contributor**: drewinnovations.
 
+### Cybertruck crash into a concrete barrier.
 
+**Event**: A Houston driver was in a Cybertruck in August 2025 when the Autopilot-controlled vehicle drove straight into a concrete barrier on a Y-shaped overpass on 69 Eastex Freeway. The vehicle was expected to follow a curve to the right, but when it failed to do so, she disengaged the driver-assistance feature. Still, “it was too late” once she took control of the wheel and the vehicle crashed into the barrier, the lawsuit claims.\
+**Country**: USA.\   
+**Date**: August, 2025.\
+**Outcome**: Collision.\
+[**Video link: X post**](https://x.com/statesman/status/2030055934316163225)  \
+**Contributor**: Austin Statesman.
+
+### Waymo driving into oncoming traffic.
+
+**Event**: Waymo drives into oncoming traffic in Austin, TX, and Finally gives up and abandones passenger in construction zone. \
+**Country**: USA.\   
+**Date**: 14 February, 2026.\
+**Outcome**: Safe.\
+[**Video link: X post**](https://x.com/Cyber_Trailer/status/2022365187555352942)  \
+**Contributor**: No Safe Words.
+
+### Waymo making dangerous left turn.
+
+**Event**: a Waymo robotaxi in Phoenix slowly inches into an eight-lane intersection for an unprotected left turn, narrowly avoiding a T-bone collision with an oncoming truck, as evidenced by passengers' panicked screams in the 60-second video. \
+**Country**: USA.\   
+**Date**: 07 March, 2026.\
+**Outcome**: near miss.\
+[**Video link: X post**](https://x.com/Cyber_Trailer/status/2030702952634290680)\
+**Contributor**: No Safe Words.
 
 
 

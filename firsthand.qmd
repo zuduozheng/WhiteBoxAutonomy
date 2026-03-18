@@ -63,3 +63,17 @@ format: html
 **Outcome**: frustrating.\
 **Source**: Own experience\
 **Video link**: [Youtube](https://www.youtube.com/watch?v=brQ_h95wU5E)
+
+### Event 6
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Highway\
+**Country**: Australia\
+**Date**: February 2026\
+**Type**: Missing trailer detection\
+**Event**: DOn a trip to UQ, while passing under an overhead bridge, I noticed that a SUV towing a trailer directly ahead was displayed as just a SUV—the trailer was not detected. A possible reason is that the trailer was mostly grey and blended with the pavement, and the bridge shadow may have further reduced contrast.\
+**Outcome**: Safe, as FSD was not engaged—but this could have been a concern otherwise.\
+**Source**: Own experience\
+**Video link**: No video, but the location is shown in the image below.
+
+![](images/Road under bridge.png)
