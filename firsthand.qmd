@@ -177,3 +177,15 @@ format: html
 **Outcome**: Frustrating.\
 **Source**: Own experience\
 **Video link**: [Youtube](https://www.youtube.com/watch?v=BJTlp67JACU); 
+
+### Event 15
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: Failed to stop at the stop line\
+**Event**: Tesla FSD failed to stop at the stop line, and I had to intervene and stop the car to avoid a potential conflict with another vehicle.\
+**Outcome**: Near miss.\
+**Source**: Own experience\
+**Video link**: [Youtube](https://www.youtube.com/watch?v=klS17OhPbuw); 
