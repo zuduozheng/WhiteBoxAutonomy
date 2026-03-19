@@ -188,4 +188,4 @@ format: html
 **Event**: Tesla FSD failed to stop at the stop line, and I had to intervene and stop the car to avoid a potential conflict with another vehicle.\
 **Outcome**: Near miss.\
 **Source**: Own experience\
-**Video link**: [Youtube](https://www.youtube.com/watch?v=klS17OhPbuw); 
+**Video link**: [Youtube](https://www.youtube.com/watch?v=bpRwmcos9S4); 
