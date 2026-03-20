@@ -77,8 +77,7 @@ format: html
 **Source**: Own experience\
 **Video link**: No video, but the location is shown in the image below.
 
-![](images/Road%20under%20bridge.png) \
-
+![](images/Road%20under%20bridge.png)\
 
 ### Event 7
 
@@ -104,7 +103,7 @@ format: html
 **Event**: Tesla FSD slowly follows the vehicle in front on a busy road and then comes to a complete stop before the "Keep Clear" zone.\
 **Outcome**: Impressive.\
 **Source**: Own experience\
-**Video link**: [Youtube](https://www.youtube.com/watch?v=8g6e1aIc3_A); 
+**Video link**: [Youtube](https://www.youtube.com/watch?v=8g6e1aIc3_A);
 
 ### Event 9
 
@@ -116,7 +115,7 @@ format: html
 **Event**: Tesla FSD performs a smooth exit from the main road.\
 **Outcome**: Impressive.\
 **Source**: Own experience\
-**Video link**: [Youtube](https://www.youtube.com/watch?v=-AV3BxJv-Y0); 
+**Video link**: [Youtube](https://www.youtube.com/watch?v=-AV3BxJv-Y0);
 
 ### Event 10
 
@@ -128,7 +127,7 @@ format: html
 **Event**: Tesla FSD turned onto a narrow bridge with a pedestrian refuge in the middle, became confused, and began drifting toward oncoming traffic, requiring immediate intervention.\
 **Outcome**: FSD disengaged.\
 **Source**: Own experience\
-**Video link**: [Youtube](https://www.youtube.com/watch?v=FVrgiWqpXR4); 
+**Video link**: [Youtube](https://www.youtube.com/watch?v=FVrgiWqpXR4);
 
 ### Event 11
 
@@ -140,7 +139,7 @@ format: html
 **Event**: Tesla FSD became confused on a small local road with a speed limit of 20 km/h, and began drifting toward oncoming traffic, requiring immediate intervention.\
 **Outcome**: FSD disengaged.\
 **Source**: Own experience\
-**Video link**: [Youtube](https://www.youtube.com/watch?v=FYwk9AVX6ck); 
+**Video link**: [Youtube](https://www.youtube.com/watch?v=FYwk9AVX6ck);
 
 ### Event 12
 
@@ -164,7 +163,7 @@ format: html
 **Event**: Tesla FSD clears a busy intersection and merges into one lane.\
 **Outcome**: Impressive.\
 **Source**: Own experience\
-**Video link**: [Youtube](https://www.youtube.com/watch?v=mgH3aED1fks); 
+**Video link**: [Youtube](https://www.youtube.com/watch?v=mgH3aED1fks);
 
 ### Event 14
 
@@ -176,7 +175,7 @@ format: html
 **Event**: Tesla FSD maintained 40 km/h on a 70 km/h road, failing to recognize that the school zone speed limit was no longer in effect. Drivers behind became impatient, and I had to repeatedly press the accelerator as FSD seemed reluctant to speed up.\
 **Outcome**: Frustrating.\
 **Source**: Own experience\
-**Video link**: [Youtube](https://www.youtube.com/watch?v=BJTlp67JACU); 
+**Video link**: [Youtube](https://www.youtube.com/watch?v=BJTlp67JACU);
 
 ### Event 15
 
@@ -188,7 +187,7 @@ format: html
 **Event**: Tesla FSD failed to stop at the stop line, and I had to intervene and stop the car to avoid a potential conflict with another vehicle.\
 **Outcome**: Near miss.\
 **Source**: Own experience\
-**Video link**: [Youtube](https://www.youtube.com/watch?v=bpRwmcos9S4); 
+**Video link**: [Youtube](https://www.youtube.com/watch?v=bpRwmcos9S4);
 
 ### Event 16
 
@@ -200,7 +199,7 @@ format: html
 **Event**: This stretch of the Brisbane Inner City Bypass—aka my son’s “roller coaster bridge”—gave FSD a fun challenge. It didn’t quite stick to the speed limits (30 km/h then 60 km/h), but otherwise handled the ride like a champ.\
 **Outcome**: Impressive.\
 **Source**: Own experience\
-**Video link**: [Youtube](https://youtu.be/X-t_o2WCaX0); 
+**Video link**: [Youtube](https://youtu.be/X-t_o2WCaX0);
 
 ### Event 17
 
@@ -249,3 +248,15 @@ format: html
 **Outcome**: Potentially risky or impressive?\
 **Source**: Own experience\
 **Video link**: [Youtube](https://youtu.be/MUZ_I9ND4D4);
+
+### Event 21
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: Merging into another lane without turning on the indicator\
+**Event**: FSD merged into another lane without using the indicator. This was risky given the heavy traffic during the afternoon rush hour.\
+**Outcome**: Potentially risky.\
+**Source**: Own experience\
+**Video link**: [Youtube](https://youtu.be/LoqiOk5hsRE);
