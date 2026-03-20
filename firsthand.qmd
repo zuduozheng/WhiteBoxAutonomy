@@ -189,3 +189,63 @@ format: html
 **Outcome**: Near miss.\
 **Source**: Own experience\
 **Video link**: [Youtube](https://www.youtube.com/watch?v=bpRwmcos9S4); 
+
+### Event 16
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: FSD Takes a Roller-Coaster Ride\
+**Event**: This stretch of the Brisbane Inner City Bypass—aka my son’s “roller coaster bridge”—gave FSD a fun challenge. It didn’t quite stick to the speed limits (30 km/h then 60 km/h), but otherwise handled the ride like a champ.\
+**Outcome**: Impressive.\
+**Source**: Own experience\
+**Video link**: [Youtube](https://youtu.be/X-t_o2WCaX0); 
+
+### Event 17
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: FSD makes an aggressive lane changing\
+**Event**: That’s probably not something I would have done.\
+**Outcome**: Potentially risky.\
+**Source**: Own experience\
+**Video link**: [Youtube](https://youtu.be/6320eHP1P6E);
+
+### Event 18
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: FSD has a friendly interaction with a pedestrian\
+**Event**: Apparently, the pedestrain didn't notice I was not the one who was driving the car :-)\
+**Outcome**: Impressive.\
+**Source**: Own experience\
+**Video link**: [Youtube](https://youtu.be/t4VpQ6fJ18E);
+
+### Event 19
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: FSD changed lanes too late\
+**Event**: FSD changed lanes too late; I had to intervene to avoid missing the turn.\
+**Outcome**: Potentially risky.\
+**Source**: Own experience\
+**Video link**: [Youtube](https://youtu.be/a23hlxFTNbc);
+
+### Event 20
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: FSD's first encounter of the so-called traffic light dilemma\
+**Event**: Overall, FSD performed well—there’s nothing to complain about; after all, this is known as the “traffic light dilemma” in traffic engineering literature.\
+**Outcome**: Potentially risky or impressive?\
+**Source**: Own experience\
+**Video link**: [Youtube](https://youtu.be/MUZ_I9ND4D4);
