@@ -84,6 +84,80 @@ format: html
 [**Video link: X post**](https://x.com/Cyber_Trailer/status/2030702952634290680)\
 **Contributor**: No Safe Words.
 
+### Tesla FSD with dirty cameras.
+
+**Event**: The post highlights a critical vulnerability in Tesla’s camera-dependent Full Self-Driving system. The images show the rear and side cameras heavily coated in mud and dirt after just three hours of driving on northern Sweden’s gravel roads in winter. \
+**Country**: Sweden.\   
+**Date**: Unknown.\
+**Outcome**: Risky.\
+[**Video link: X post**](https://x.com/NicklasNilsso14/status/2034561242430369916)\
+**Contributor**: NicklasNilsso14.
+
+### Tesla FSD navigates through a construction site.
+
+**Event**: A short video clip shared by @ray4tesla
+ on March 19, 2026, shows Tesla FSD v14.2.2.5 briefly coming to a full stop in a construction zone (possibly due to a mobile flashing yellow light, worker posture suggesting intent to step out, a visible stop sign, oncoming traffic/pickup truck, or over-sensitivity to potential jaywalkers/pedestrians).The system then correctly recognizes and obeys the construction worker's clear hand signal to proceed, moving forward smoothly. \
+**Country**: USA.\   
+**Date**: Unknown.\
+**Outcome**: Risky.\
+[**Video link: X post**](https://x.com/ray4tesla/status/2034669620570038443)\
+**Contributor**: ray4tesla.
+
+
+### Tesla FSD sees merging lane construction sign.
+
+**Event**: The post showcases Tesla's Full Self-Driving (FSD) software version 14.x detecting a construction merge sign on a snowy highway and executing a smooth left lane shift, as captured in a 29-second dashcam video from a Model 3. \
+**Country**: USA.\   
+**Date**: Unknown.\
+**Outcome**: Safe.\
+[**Video link: X post**](https://x.com/mikepat711/status/2034366541320298543)\
+**Contributor**: mikepat711.
+
+### Tesla FSD predicts a pedestrain crossing.
+
+**Event**: The post showcases Tesla's Full Self-Driving (FSD) software detecting a pedestrian entering a crosswalk from over 100 meters away in Quzhou, China, slowing the vehicle from 43 km/h to a near-stop over 11 seconds. \
+**Country**: China.\   
+**Date**: 17 March 2026.\
+**Outcome**: Safe.\
+[**Video link: X post**](https://x.com/TeslaAaronL/status/2034239644733501655)\
+**Contributor**: TeslaAaronL.
+
+### Tesla FSD detects a wheelchair user in the pouring rain.
+
+**Event**: Tesla's Full Self-Driving (FSD) software detected a wheelchair user crossing a Vancouver street in heavy rain at night, slowing the vehicle at a green light despite the driver's initial oversight due to low visibility, highlighting AI's superior perception in adverse conditions. \
+**Country**: Canada.\   
+**Date**: Unknown.\
+**Outcome**: Impressive.\
+[**Video link: X post**](https://x.com/DevinOlsenn/status/2034160749820448925)\
+**Contributor**: DevinOlsenn.
+
+### Tesla FSD safely interacts with a semi-truck.
+
+**Event**: Tesla's FSD system detects the semi-truck's left signal via cameras, slows by 6 mph to yield space, then accelerates past when the truck shifts right, demonstrating predictive intent recognition in under a second. \
+**Country**: USA.\   
+**Date**: Unknown.\
+**Outcome**: Impressive.\
+[**Video link: X post**](https://x.com/mikepat711/status/2034404819792736647)\
+**Contributor**: mikepat711.
+
+### Tesla FSD safely interacts with an oversized load.
+
+**Event**: Tesla's FSD V14.2.2.5 demonstrates advanced highway judgment by trailing a swaying oversized load for over a minute, then accelerating 10+ mph to pass only when shoulder barriers cleared. \
+**Country**: USA.\   
+**Date**: Unknown.\
+**Outcome**: Impressive.\
+[**Video link: X post**](https://x.com/mikepat711/status/2033607930528907600)\
+**Contributor**: mikepat711.
+
+
+### Waymo Robotaxi vs. Garbage Truck: The Santa Monica Standoff.
+
+**Event**: The post captures an incident in Santa Monica where a Waymo robotaxi halts on a narrow, curved street behind a maneuvering garbage truck, blocking traffic for over 30 seconds as shown in the video, highlighting the vehicle's inability to navigate tight urban spaces without intervention. \
+**Country**: USA.\   
+**Date**: 9 March 2026.\
+**Outcome**: Embarrassing.\
+[**Video link: X post**](https://x.com/Cyber_Trailer/status/2031254035106611624)\
+**Contributor**: Cyber_Trailer.
 
 
 

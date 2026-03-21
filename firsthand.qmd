@@ -260,3 +260,39 @@ format: html
 **Outcome**: Potentially risky.\
 **Source**: Own experience\
 **Video link**: [Youtube](https://youtu.be/LoqiOk5hsRE);
+
+### Event 22
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: Lane departure\
+**Event**: This happened when Tesla FSD was merging onto the Bruce Highway.\
+**Outcome**: Potentially risky.\
+**Source**: Own experience\
+**Video link**: [Youtube](https://youtu.be/uAPe_-a5cJc);
+
+### Event 23
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: Lane departure\
+**Event**: This happened when Tesla FSD was travelling on a local road.\
+**Outcome**: Potentially risky.\
+**Source**: Own experience\
+**Video link**: [Youtube](https://youtu.be/gXhnwt4bpFQ);
+
+### Event 24
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: Lane departure\
+**Event**: This happened when Tesla FSD was travelling on a local road with dashed yellow edge line.\
+**Outcome**: Potentially risky.\
+**Source**: Own experience\
+**Video link**: [Youtube](https://www.youtube.com/watch?v=2iEaVyNT4Bg);
