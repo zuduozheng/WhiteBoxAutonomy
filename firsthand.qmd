@@ -296,3 +296,32 @@ format: html
 **Outcome**: Potentially risky.\
 **Source**: Own experience\
 **Video link**: [Youtube](https://www.youtube.com/watch?v=2iEaVyNT4Bg);
+
+### Event 25
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: The front camera failed to detect a car\
+**Event**: Around 37 seconds into the clip, the Tesla suddenly slowed down and drifted slightly, which startled me. I then noticed a car approaching from the road on the left that had come to a stop. After reviewing the front camera footage, I was puzzled because no car was visible at that moment. However, when I checked the left pillar camera, the car was clearly there. It appears the front camera may have missed it because the vehicle was stopped in the shadow of the trees.\
+**Outcome**: Potentially risky.\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://youtu.be/5vcVxa06lMw); [Youtube - Left-pillar Camera View](https://youtu.be/ro4FASE3JCg);
+
+This incident can be clearly seen from the two screenshots below as well:
+
+![Front camera](images/2026-03-22-08-55-07-front.png)
+
+![Left pillar camera](images/2026-03-22-08-55-07-left.png)
+
+### Event 26
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: The maneuver was smooth and confident.\
+**Outcome**: Impressive.\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://youtu.be/w1gI7DzKJJ0);
