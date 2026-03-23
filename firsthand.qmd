@@ -321,7 +321,56 @@ This incident can be clearly seen from the two screenshots below as well:
 **Context**: Suburb\
 **Country**: Australia\
 **Date**: March 2026\
-**Type**: The maneuver was smooth and confident.\
+**Type**: FSD avoiding bus\
+**Event**: FSD changed lanes to avoid a stopping bus. The maneuver was smooth and confident.\
 **Outcome**: Impressive.\
 **Source**: Own experience\
 **Video link**: [Youtube - Front Camera View](https://youtu.be/w1gI7DzKJJ0);
+
+### Event 27
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: FSD stops for puppy.\
+**Event**: FSD noticed a playful puppy running alongside the road, slowed to nearly a complete stop before accelerating again.\
+**Outcome**: Impressive.\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://www.youtube.com/watch?v=_84Vm0wo8Q0);
+
+### Event 28
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: FSD’s Shocking Disregard for Road Markings.\
+**Event**: I was shocked by FSD’s total disregard for road markings—it behaved like someone behind the wheel for the very first time. For context, I didn’t intervene on purpose; I wanted to see how far it would go.\
+**Outcome**: Shocking & risky\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://www.youtube.com/watch?v=CuyymeGZb4g);
+
+### Event 29
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: FSD totally ignored the bicycle lane.\
+**Event**: FSD totally ignored the bicycle lane when waiting at the traffic light.\
+**Outcome**: Risky.\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://www.youtube.com/watch?v=OQvp5R6JesM);
+
+### Event 30
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: FSD played the perfect gentleman at a busy intersection.\
+**Event**: FSD yielded to a truck at a busy intersection, but in doing so missed the traffic light.\
+**Outcome**: Impressive.\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://www.youtube.com/watch?v=5tBDeNPyKIY);
