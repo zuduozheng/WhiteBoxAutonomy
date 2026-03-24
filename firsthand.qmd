@@ -374,3 +374,112 @@ This incident can be clearly seen from the two screenshots below as well:
 **Outcome**: Impressive.\
 **Source**: Own experience\
 **Video link**: [Youtube - Front Camera View](https://www.youtube.com/watch?v=5tBDeNPyKIY);
+
+### Event 31
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: Speeding in the school zone.\
+**Event**: FSD detected the school zone, but continued to accelerate. The warning chime remained active throughout. As it kept picking up speed, I intervened and applied the brake before it became unsafe.\
+**Outcome**: Risky.\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://www.youtube.com/watch?v=fQ3Ob06m0uA);
+
+### Event 32
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: FSD slowed down for motorcyclist.\
+**Event**: In heavy traffic approaching a traffic light, FSD didn’t immediately move with the car ahead. I was initially surprised by the delay, but quickly realized it had detected a motorcyclist passing through.\
+**Outcome**: Impressive.\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://www.youtube.com/watch?v=O_GmhzcwlAY);
+
+### Event 33
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: FSD gave way at a small, uncontrolled intersection.\
+**Event**: In heavy traffic, FSD stopped to let a car making a right turn, despite there is no "Keep Clear" sign. Its driving ID seems to surpass many human drivers.\
+**Outcome**: Impressive.\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://www.youtube.com/watch?v=b9wuLSS94Cg);
+
+### Event 34
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: FSD Hesitates on Encroaching Bus.\
+**Event**: A bus needed to encroach into the opposing lane to complete a sharp left turn. FSD detected this and began slowing down, but hesitated and did not come to a full stop. I intervened before it became unsafe.\
+**Outcome**: Potentially dangerous.\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://www.youtube.com/watch?v=O3k0sRZ2obo);
+
+### Event 35
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: FSD Navigates Busy Traffic Around a Cyclist.\
+**Event**: On a busy, crowded road, FSD interacted cautiously with a cyclist.\
+**Outcome**: Impressive.\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://www.youtube.com/watch?v=gNoEHRV9QJw);
+
+### Event 36
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: FSD navigates through a busy roundabout.\
+**Event**: FSD navigates through a busy roundabout both from the front camera view and the righ pillar camera view.\
+**Outcome**: Impressive.\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://www.youtube.com/watch?v=h9IVbRzfMEg);
+[Youtube - Right Pillar Camera View](https://www.youtube.com/watch?v=pstpAjf87og);
+
+### Event 37
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: FSD makes quick decisions to avoid stopped vehicles.\
+**Event**: FSD did it twice in a short interval.\
+**Outcome**: Impressive.\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://www.youtube.com/watch?v=TTtrhNKyfJk);
+
+### Event 38
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: FSD detects and anticipates a pedestrian.\
+**Event**: On UQ’s St Lucia campus, FSD anticipated a pedestrian approaching the crossing and stopped early to give way.\
+**Outcome**: Impressive.\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://www.youtube.com/watch?v=WbZ01ZD0fhQ);
+
+### Event 39
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: FSD interacts with vehicles on a narrow and unmarked road.\
+**Event**: It’s a narrow, crowded, and steep local road with no lane markings. FSD handled the oncoming vehicle smoothly and safely.\
+**Outcome**: Impressive.\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://www.youtube.com/watch?v=zO6QPp_gyfU);
