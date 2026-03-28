@@ -1,5 +1,7 @@
 /* css styles */
-/* Remove Quarto's automatic footer separators */
+
+
+/* Footer center area */
 .page-footer .nav-footer-center {
   display: flex;
   justify-content: center;
@@ -10,29 +12,39 @@
   margin: 0;
 }
 
-/* Hide the default separator line / dash */
+/* Hide Quarto separator */
 .page-footer .nav-footer-center::before,
 .page-footer .nav-footer-center::after {
   display: none !important;
   content: none !important;
 }
 
-/* Social icon container */
+/* Social icon row */
 .social-footer {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 36px;   /* increase spacing */
+  gap: 36px;
 }
 
-/* Make both icons same size */
+/* Make each link a flex box too */
+.social-footer a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 0;
+  text-decoration: none;
+}
+
+/* Base icon style */
 .footer-icon {
+  display: block;
   width: 44px;
   height: 44px;
   object-fit: contain;
 }
 
-
+/* Slightly enlarge X if needed */
 .x-icon {
   width: 52px;
   height: 52px;
