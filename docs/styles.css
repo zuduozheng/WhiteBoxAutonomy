@@ -22,23 +22,20 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 18px;   /* increase spacing */
+  gap: 36px;   /* increase spacing */
 }
 
 /* Make both icons same size */
 .footer-icon {
-  width: 22px;
-  height: 22px;
+  width: 44px;
+  height: 44px;
   object-fit: contain;
   display: inline-block;
   vertical-align: middle;
 }
 
-object-fit: contain;
-width: 22px;
-height: 22px;
 
 .x-icon {
-  width: 18px;
-  height: 18px;
+  width: 36px;
+  height: 36px;
 }
