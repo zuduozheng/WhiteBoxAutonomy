@@ -19,11 +19,15 @@ website:
       - text: "Acknowledgements"
         href: acknowledgements.qmd
       
-    right:
-      - href: https://www.youtube.com/@WhiteBoxAutonomy
-        text: "![](images/youtube.svg)"
-      - href: https://x.com/WhiteBoxAV
-        text: "![](images/x.svg)"
+    
+  page-footer:
+    center: |
+      <a href="https://www.youtube.com/@WhiteBoxAutonomy" target="_blank">
+        <img src="images/youtube.svg" class="footer-icon" alt="YouTube">
+      </a>
+      <a href="https://x.com/WhiteBoxAV" target="_blank">
+        <img src="images/X.svg" class="footer-icon" alt="X">
+      </a>
 
 format:
   html:

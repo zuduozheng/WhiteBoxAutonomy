@@ -1,11 +1,11 @@
 /* css styles */
-.navbar-nav img {
-  height: 22px;
-  width: 22px;
+.footer-icon {
+  width: 24px;
+  height: 24px;
+  margin: 0 10px;
   vertical-align: middle;
 }
 
-.navbar-nav a {
-  padding-left: 8px;
-  padding-right: 8px;
+.page-footer {
+  text-align: center;
 }
