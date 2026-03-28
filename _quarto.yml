@@ -18,16 +18,17 @@ website:
         href: otherusers.qmd
       - text: "Acknowledgements"
         href: acknowledgements.qmd
-      
-    
+ 
   page-footer:
     center: |
-      <a href="https://www.youtube.com/@WhiteBoxAutonomy" target="_blank">
-        <img src="images/youtube.svg" class="footer-icon" alt="YouTube">
-      </a>
-      <a href="https://x.com/WhiteBoxAV" target="_blank">
-        <img src="images/X.svg" class="footer-icon" alt="X">
-      </a>
+      <div class="social-footer">
+        <a href="https://www.youtube.com/@WhiteBoxAutonomy" target="_blank">
+          <img src="images/youtube.svg" class="footer-icon" alt="YouTube">
+        </a>
+        <a href="https://x.com/WhiteBoxAV" target="_blank">
+          <img src="images/X.svg" class="footer-icon x-icon" alt="X">
+        </a>
+      </div>
 
 format:
   html:
