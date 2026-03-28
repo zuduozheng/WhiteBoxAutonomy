@@ -13,7 +13,7 @@ format: html
 **Event**: During a trip to North Lakes Costco, while travelling on the Bruce Highway near IKEA in a posted 80 km/h zone, FSD appeared limited to about 60 km/h, despite the vehicle display showing an 80 km/h speed limit. Manual acceleration was possible, but once pedal input was released, the vehicle decelerated back to below 60 km/h.\
 **Outcome**: Safe. Following vehicles became impatient and overtook. FSD returned to normal behaviour once the speed limit increased to 100 km/h.\
 **Source**: Own experience\
-**Video link**: NA.
+**Video link**: A similar incident happened a couple of weeks later. here is the [Youtube](https://www.youtube.com/watch?v=hHcswC6Zzc0).
 
 ### Event 2
 
@@ -483,3 +483,164 @@ This incident can be clearly seen from the two screenshots below as well:
 **Outcome**: Impressive.\
 **Source**: Own experience\
 **Video link**: [Youtube - Front Camera View](https://www.youtube.com/watch?v=zO6QPp_gyfU);
+
+### Event 40
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: FSD Speed Limit Bug.\
+**Event**: On a local road with a speed limit of 50 km/h, FSD’s screen displayed 30 km/h. When I tried to increase the speed closer to 50 km/h, it triggered a red warning alert.\
+**Outcome**: Frustrating.\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://www.youtube.com/watch?v=pCy6_w7xXJE);
+
+### Event 41
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: FSD went to a wrong lane.\
+**Event**: FSD was planning to make a left turn, but it mistakenly moved into a right-turn-only lane.\
+**Outcome**: Dangerous.\
+**Source**: Own experience\
+
+### Event 42
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: FSD Nails Complex Roundabout—But Signals Wrong.\
+**Event**: FSD did an impressive job of making a U turn by navigating this highly complex roundabout. However, on approach, a closer look at the screen shows it briefly indicated the wrong lane change twice.\
+**Outcome**: Impressive.\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://www.youtube.com/watch?v=atzAzAEW8LE);
+
+### Event 43
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: FSD Gets “Stage Fright” While Pulling Out of Parking Lot.\
+**Event**: FSD began pulling out of a parking lot with shoppers nearby and another car waiting. It started smoothly, but midway seemed to “freeze” with a hint of stage fright, unexpectedly shifting into reverse. I intervened before the other driver became impatient.\
+**Outcome**: Frustrating & embarrassing.\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://www.youtube.com/watch?v=RYd2nVyb3bU);
+
+
+
+### Event 44
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: A small bridge creats a big problem for FSD (Part I).\
+**Event**: FSD was supposed to turn left onto the bridge; however, it became completely confused and got stuck at the intersection. I had to intervene, but by then it was a little too late, so I had to continue driving straight instead.
+In a separate video clip, you will see the same bridge causing another major issue for FSD on the return trip.\
+**Outcome**: Dangerous.\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://www.youtube.com/watch?v=Wjb7Jg1kEZU);
+
+### Event 45
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: A small bridge creats a big problem for FSD (Part II).\
+**Event**: This is the same bridge. On the return trip, FSD was supposed to turn right but became completely confused and almost drove into oncoming traffic, so I had to intervene.\
+**Outcome**: Dangerous.\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://www.youtube.com/watch?v=bW2hN7JTDDY);
+
+### Event 46
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: Bad lane selection.\
+**Event**: FSD made a very poor lane selection when turning onto the main road. The leftmost lane would have been the natural choice, as FSD was supposed to make a left turn shortly afterwards; however, it moved directly into the rightmost lane instead.\
+**Outcome**: Dangerous.\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://www.youtube.com/watch?v=V5VUQLkRbPY);
+
+
+### Event 47
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: Impressive FSD Vigilance Around Young Pedestrians.\
+**Event**: On a dark evening, FSD demonstrated strong vigilance while a group of young pedestrians was crossing the road. After they had finished crossing and the vehicle began moving again, I noticed a slight drift in its trajectory. It then became apparent that one of the pedestrians seemed unsteady, and FSD was proactively trying to maintain a safe distance.\
+**Outcome**: Impressive.\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://www.youtube.com/watch?v=PQ7Dx_N_f2c);
+
+### Event 48
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: Another poor lane selection, or, poor road design?\
+**Event**: FSD merged onto another road via a ramp. The first two lanes are designated for right turns only, while the outermost lane is the correct lane that FSD should have taken. However, FSD was too slow to move into the correct lane in time. To be fair, this is a poorly designed section of road.\
+**Outcome**: Dangerous.\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://www.youtube.com/watch?v=B-lleRb_pEU);
+
+
+### Event 49
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: Did FSD just run a red light?\
+**Event**: Did FSD just run a red light? or almost?\
+**Outcome**: Dangerous.\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://www.youtube.com/watch?v=3uvczZhE6nI);
+
+
+### Event 50
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: Did FSD Have Another Case of Stage Fright?\
+**Event**: In a parking lot, another car stopped to let FSD proceed first, but FSD became confused midway through the manoeuvre, and I had to intervene.\
+**Outcome**: Frustrating and embarrassing.\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://www.youtube.com/watch?v=ndRzXisymmU);
+
+### Event 51
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: FSD went to a wrong lane\
+**Event**: FSD was planning to make a left turn, but it mistakenly moved into a right-turn-only lane.\
+**Outcome**: Dangerous.\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://www.youtube.com/watch?v=H2qi19JDh1U);
+
+### Event 52
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: FSD partially travels on the road shoulder\
+**Event**: While entering the freeway via an on-ramp, FSD failed to recognise the lane boundary and appeared to treat the road shoulder as an additional lane, travelling fast with the vehicle positioned half in the lane and half on the shoulder.\
+**Outcome**: Risky.\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://www.youtube.com/watch?v=dTE3nBbURQk);

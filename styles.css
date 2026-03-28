@@ -1,1 +1,11 @@
 /* css styles */
+.navbar-nav img {
+  height: 22px;
+  width: 22px;
+  vertical-align: middle;
+}
+
+.navbar-nav a {
+  padding-left: 8px;
+  padding-right: 8px;
+}

@@ -1,9 +1,11 @@
 /* css styles */
-figure {
-  text-align: center;
+.navbar-nav img {
+  height: 22px;
+  width: 22px;
+  vertical-align: middle;
 }
 
-figure figcaption {
-  text-align: center;
-  font-size: 0.9em;
+.navbar-nav a {
+  padding-left: 8px;
+  padding-right: 8px;
 }

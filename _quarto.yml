@@ -18,6 +18,12 @@ website:
         href: otherusers.qmd
       - text: "Acknowledgements"
         href: acknowledgements.qmd
+      
+    right:
+      - href: https://www.youtube.com/@WhiteBoxAutonomy
+        text: "![](images/youtube.svg)"
+      - href: https://x.com/WhiteBoxAV
+        text: "![](images/x.svg)"
 
 format:
   html:
