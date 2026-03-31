@@ -644,3 +644,65 @@ In a separate video clip, you will see the same bridge causing another major iss
 **Outcome**: Risky.\
 **Source**: Own experience\
 **Video link**: [Youtube - Front Camera View](https://www.youtube.com/watch?v=dTE3nBbURQk);
+
+### Event 53
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: Tesla FSD let a car cut in in congested traffic\
+**Event**: Tesla FSD politely let a car cut in during heavy traffic.\
+**Outcome**: Impressive.\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://youtu.be/ixXf6xN-K5s);
+
+### Event 54
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: Tesla FSD avoids blocking the intersection despite the green light\
+**Event**: Tesla FSD showed some impressive traffic IQ here—holding back on a green light to avoid blocking the intersection.\
+**Outcome**: Impressive.\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://youtu.be/M8HUk2YF5lg);
+
+### Event 55
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: Tesla FSD smoothly drives around a stopped car\
+**Event**: On a narrow, busy—and chaotic—road, Tesla FSD smoothly navigates around a stopped car.\
+**Outcome**: Impressive.\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://youtu.be/xoKFY8ibtco);
+
+
+### Event 56
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: Tesla FSD did a terrible job in making a right turn\
+**Event**: Tesla FSD did a terrible job in making a right turn by cutting well into the lane of oncoming traffic.\
+**Outcome**: Dangerous.\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://youtu.be/QNh_o6ZPR1Q);
+
+### Event 57
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: March 2026\
+**Type**: A rare moment of smart lane selection by Tesla FSD\
+**Event**: One of my biggest frustrations with Tesla FSD is its often puzzling lane choices. But here’s a rare win: while merging, it correctly anticipated an upcoming right turn and quickly moved into a dedicated right-turn lane.\
+**Outcome**: Impressive.\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://youtu.be/z7ChHuuDCiI);
+
