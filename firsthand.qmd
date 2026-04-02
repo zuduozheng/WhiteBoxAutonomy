@@ -706,3 +706,39 @@ In a separate video clip, you will see the same bridge causing another major iss
 **Source**: Own experience\
 **Video link**: [Youtube - Front Camera View](https://youtu.be/z7ChHuuDCiI);
 
+### Event 58
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: April 2026\
+**Type**: Turn left or turn right? Tesla FSD couldn’t quite make up its mind\
+**Event**: When the left-turn light went green, it just… stayed put. Even more puzzling, a closer look at the screen shows it briefly switching to a right-turn signal. In the end, I had to give it a gentle nudge on the accelerator—then it finally made the left turn.\
+**Outcome**: Puzzling & frustrating.\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://youtu.be/bd17LeiDCAg?si=Q34uYw_akAUtia-C);
+
+### Event 59
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: April 2026\
+**Type**: Tesla FSD won’t move? You might want to look around before you start cursing\
+**Event**: In a parking lot, Tesla FSD refused to move. I was puzzled—then quickly I realized: the car in front was about to reverse.\
+**Outcome**: Impressive.\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://youtu.be/osXnmMWTNoY);
+
+### Event 60
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: April 2026\
+**Type**: Tesla FSD seems to have a procrastination problem\
+**Event**: One of my recurring frustrations with Tesla FSD on daily drives is what feels like “lane selection procrastination.” It often delays signalling or moving into the correct lane until the very last second—even when I’ve already manually turned on and held the indicator, like in this clip. This behaviour can be quite stressful and often keeps me on edge.\
+**Outcome**: Dangerous and frustrating.\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://youtu.be/L-LpH1jkPcU);
+
