@@ -766,3 +766,17 @@ Bonus: FSD glided through the intersection on yellow. Like a pro.\
 **Outcome**: Impressive.\
 **Source**: Own experience\
 **Video link**: [Youtube - Front Camera View](https://youtu.be/SQEFbvgwpQ0);
+
+### Event 63
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: April 2026\
+**Type**: Tesla FSD facing off with a pick-up truck in a parking lot.\
+**Event**: 
+I have to admit… I kind of envy its skills;
+Somehow less awkward than I’d be in these situations.\
+**Outcome**: Impressive.\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://youtu.be/l6eSI0IxeFk?si=Mh6sdqRJ4z18l6u7);
