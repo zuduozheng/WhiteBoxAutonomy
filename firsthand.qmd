@@ -780,3 +780,15 @@ Somehow less awkward than I’d be in these situations.\
 **Outcome**: Impressive.\
 **Source**: Own experience\
 **Video link**: [Youtube - Front Camera View](https://youtu.be/l6eSI0IxeFk?si=Mh6sdqRJ4z18l6u7);
+
+### Event 64
+
+**System**: Tesla Model Y FSD 2026\
+**Context**: Suburb\
+**Country**: Australia\
+**Date**: April 2026\
+**Type**: Tesla FSD run off the road while merging.\
+**Event**: Tesla FSD an off the road while merging… completely ignoring the lines.\
+**Outcome**: Dangerous.\
+**Source**: Own experience\
+**Video link**: [Youtube - Front Camera View](https://www.youtube.com/shorts/lt6xULOoQtw);
