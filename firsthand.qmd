@@ -3,6 +3,8 @@ title: "First-hand Reports"
 format: html
 ---
 
+**Important note: New events will no longer be added to the list below due to the large and continually growing volume. Please visit one of the YouTube channels instead: [White Box Autonomy](https://www.youtube.com/@WhiteBoxAutonomy/videos) or [White Box Autonomy Archive](https://www.youtube.com/@WhiteBoxAutonomyArchive).**\
+
 ### Event 1
 
 **System**: Tesla Model Y FSD 2026\
@@ -445,8 +447,7 @@ This incident can be clearly seen from the two screenshots below as well:
 **Event**: FSD navigates through a busy roundabout both from the front camera view and the righ pillar camera view.\
 **Outcome**: Impressive.\
 **Source**: Own experience\
-**Video link**: [Youtube - Front Camera View](https://www.youtube.com/watch?v=h9IVbRzfMEg);
-[Youtube - Right Pillar Camera View](https://www.youtube.com/watch?v=pstpAjf87og);
+**Video link**: [Youtube - Front Camera View](https://www.youtube.com/watch?v=h9IVbRzfMEg); [Youtube - Right Pillar Camera View](https://www.youtube.com/watch?v=pstpAjf87og);
 
 ### Event 37
 
@@ -531,8 +532,6 @@ This incident can be clearly seen from the two screenshots below as well:
 **Source**: Own experience\
 **Video link**: [Youtube - Front Camera View](https://www.youtube.com/watch?v=RYd2nVyb3bU);
 
-
-
 ### Event 44
 
 **System**: Tesla Model Y FSD 2026\
@@ -540,8 +539,7 @@ This incident can be clearly seen from the two screenshots below as well:
 **Country**: Australia\
 **Date**: March 2026\
 **Type**: A small bridge creats a big problem for FSD (Part I).\
-**Event**: FSD was supposed to turn left onto the bridge; however, it became completely confused and got stuck at the intersection. I had to intervene, but by then it was a little too late, so I had to continue driving straight instead.
-In a separate video clip, you will see the same bridge causing another major issue for FSD on the return trip.\
+**Event**: FSD was supposed to turn left onto the bridge; however, it became completely confused and got stuck at the intersection. I had to intervene, but by then it was a little too late, so I had to continue driving straight instead. In a separate video clip, you will see the same bridge causing another major issue for FSD on the return trip.\
 **Outcome**: Dangerous.\
 **Source**: Own experience\
 **Video link**: [Youtube - Front Camera View](https://www.youtube.com/watch?v=Wjb7Jg1kEZU);
@@ -570,7 +568,6 @@ In a separate video clip, you will see the same bridge causing another major iss
 **Source**: Own experience\
 **Video link**: [Youtube - Front Camera View](https://www.youtube.com/watch?v=V5VUQLkRbPY);
 
-
 ### Event 47
 
 **System**: Tesla Model Y FSD 2026\
@@ -595,7 +592,6 @@ In a separate video clip, you will see the same bridge causing another major iss
 **Source**: Own experience\
 **Video link**: [Youtube - Front Camera View](https://www.youtube.com/watch?v=B-lleRb_pEU);
 
-
 ### Event 49
 
 **System**: Tesla Model Y FSD 2026\
@@ -607,7 +603,6 @@ In a separate video clip, you will see the same bridge causing another major iss
 **Outcome**: Dangerous.\
 **Source**: Own experience\
 **Video link**: [Youtube - Front Camera View](https://www.youtube.com/watch?v=3uvczZhE6nI);
-
 
 ### Event 50
 
@@ -681,7 +676,6 @@ In a separate video clip, you will see the same bridge causing another major iss
 **Source**: Own experience\
 **Video link**: [Youtube - Front Camera View](https://youtu.be/xoKFY8ibtco);
 
-
 ### Event 56
 
 **System**: Tesla Model Y FSD 2026\
@@ -749,8 +743,7 @@ In a separate video clip, you will see the same bridge causing another major iss
 **Country**: Australia\
 **Date**: April 2026\
 **Type**: Tesla FSD gently “negotiate” with a very confused bin chicken\
-**Event**: Feeling overwhelmed? Need a little warmth, peace, and love? Watch Tesla FSD gently “negotiate” with a very confused bin chicken. My kids and I kept hitting “watch again”…
-Bonus: FSD glided through the intersection on yellow. Like a pro.\
+**Event**: Feeling overwhelmed? Need a little warmth, peace, and love? Watch Tesla FSD gently “negotiate” with a very confused bin chicken. My kids and I kept hitting “watch again”… Bonus: FSD glided through the intersection on yellow. Like a pro.\
 **Outcome**: Calm.\
 **Source**: Own experience\
 **Video link**: [Youtube - Front Camera View](https://youtu.be/pW44em9O6k0);
@@ -774,9 +767,7 @@ Bonus: FSD glided through the intersection on yellow. Like a pro.\
 **Country**: Australia\
 **Date**: April 2026\
 **Type**: Tesla FSD facing off with a pick-up truck in a parking lot.\
-**Event**: 
-I have to admit… I kind of envy its skills;
-Somehow less awkward than I’d be in these situations.\
+**Event**: I have to admit… I kind of envy its skills; Somehow less awkward than I’d be in these situations.\
 **Outcome**: Impressive.\
 **Source**: Own experience\
 **Video link**: [Youtube - Front Camera View](https://youtu.be/l6eSI0IxeFk?si=Mh6sdqRJ4z18l6u7);
